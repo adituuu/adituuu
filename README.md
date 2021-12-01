@@ -6,16 +6,10 @@
 
 ### About Me:
 
-<div align='left'>
-
 >🔭 I’m currently working on My Portfolio <br>
 >🌱 I’m currently learning PyTorch, Django <br>
 >📝 I regularly write articles on my [Blog](https://aditu.waw.pl/blog/) <br>
 >📫 You can reach me on my [Twitter](https://twitter.com/xaditu/) <br>
-
-</div>
-
-
 
 ### Languages & Tools:
 
@@ -30,12 +24,8 @@
 
 ### Recent Activities:
 
-<div align='left'>
-
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
-</div>
 
 </div>
