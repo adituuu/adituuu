@@ -1,16 +1,20 @@
 # Hi There 👋, I'm Adam
- ### Junior Python & FrontEnd Developer.
+### Junior Python & FrontEnd Developer.
  
 </br>
 
 #### About Me:
 
-- 🔭 I’m currently working on <>
-- 🌱 I’m currently learning <>
-- 👨‍💻 All of my projects are available at <>
-- 📝 I regularly write articles on <>
+- 🔭 I’m currently working on My Portfolio
+- 🌱 I’m currently learning PyTorch, Django
+- 📝 I regularly write articles on adituuu.pl/blog
 - 📫 You can reach me on Twitter
-- ⚡ <RandomQuote><RandomQuote>
+
+<div align="center">
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adituuu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ------------
 
@@ -39,18 +43,16 @@
 </div>
 
 
-
 ------------
 
 
-#### Statistics:
+#### Feed:
 
-<div align="center">
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adituuu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align='center'>
+
+<!--START_SECTION:activity-->
 
 </div>
-
 
 ------------
 
@@ -62,6 +64,3 @@
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xaditu) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/xyz) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://codepen.io/adam-stelmaszewski) ![CodePen](	https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17555924/aditu)
 
 </div>
-
-
-<!--START_SECTION:activity-->
