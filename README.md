@@ -1,64 +1,39 @@
-<div align="center">
 
-# Hi There 👋, I'm Adam
-### Junior Python & FrontEnd Developer.
- 
-</br>
+<div align='justify'>
 
-#### About Me:
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Adam
+### Junior Python & FrontEnd Developer
 
--=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-
-🔭 I’m currently working on My Portfolio
-🌱 I’m currently learning PyTorch, Django
-📝 I regularly write articles on adituuu.pl/blog
-📫 You can reach me on Twitter
--=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adituuu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+### About Me:
 
+<div align='left'>
 
+>🔭 I’m currently working on My Portfolio
+>🌱 I’m currently learning PyTorch, Django
+>📝 I regularly write articles on my [Blog](https://aditu.waw.pl/blog/)
+>📫 You can reach me on my [Twitter](https://twitter.com/xaditu/)
 
-------------
-
-#### Languages and Tools:
-
-<div align="center">
- 
-##### Languages
- 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
- </div>
-<div align="center">
- 
-##### Frameworks and Library's
- 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
- 
-##### Editors
- 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+</div>
 
 
 
-------------
+### Languages & Tools:
 
+![Python](https://img.shields.io/badge/Python-Language-green?style=for-the-badge&logo=Python&logoColor=%23FFFFFF) ![HTML](https://img.shields.io/badge/HTML-Language-green?style=for-the-badge&logo=HTML5&logoColor=%23FFFFFF) ![CSS](https://img.shields.io/badge/CSS-Language-green?style=for-the-badge&logo=CSS3&logoColor=%23FFFFFF) ![JS](https://img.shields.io/badge/JavaScript-Language-green?style=for-the-badge&logo=JavaScript&logoColor=%23FFFFFF)
+![Flask](https://img.shields.io/badge/Flask-Framework-green?style=for-the-badge&logo=Flask&logoColor=%23FFFFFF) ![Selenium](https://img.shields.io/badge/Selenium-Framework-green?style=for-the-badge&logo=Selenium&logoColor=%23FFFFFF) ![JQuery](https://img.shields.io/badge/jQuery-Framework-green?style=for-the-badge&logo=jQuery&logoColor=%23FFFFFF)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-green?style=for-the-badge&logo=Bootstrap&logoColor=%23FFFFFF)
+![pyCharm](https://img.shields.io/badge/pyCharm-Editor-green?style=for-the-badge&logo=PyCharm&logoColor=%23FFFFFF)  ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-Editor-green?style=for-the-badge&logo=VisualStudioCode&logoColor=%23FFFFFF)
+### Social Media
 
-#### Feed:
+ [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xaditu) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/xyz) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://codepen.io/adam-stelmaszewski) ![CodePen](	https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17555924/aditu)
 
+### Recent Activities:
 
+<div align='left'>
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 
-------------
-
-
-#### Social Media:
-
- 
- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xaditu) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/xyz) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://codepen.io/adam-stelmaszewski) ![CodePen](	https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17555924/aditu)
+</div>
 
 </div>
