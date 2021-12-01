@@ -7,6 +7,26 @@
 
 #### About Me:
 
+   ______________________________
+ / \                             \.
+|   |                            |.
+ \_ |                            |.
+    |                            |.
+    |                            |.
+    |                            |.
+    |                            |.
+    |                            |.
+    |                            |.
+    |                            |.
+    |                            |.
+    |                            |.
+    |                            |.
+    |                            |.
+    |   _________________________|___
+    |  /                            /.
+    \_/__________________________/.
+
+
 - 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning PyTorch, Django
 - 📝 I regularly write articles on adituuu.pl/blog
