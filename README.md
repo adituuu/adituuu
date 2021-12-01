@@ -7,31 +7,12 @@
 
 #### About Me:
 
-   ______________________________
- / \                             \.
-|   |                            |.
- \_ |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |                            |.
-    |   _________________________|___
-    |  /                            /.
-    \_/__________________________/.
-
-
-- 🔭 I’m currently working on My Portfolio
-- 🌱 I’m currently learning PyTorch, Django
-- 📝 I regularly write articles on adituuu.pl/blog
-- 📫 You can reach me on Twitter
-
+-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-
+🔭 I’m currently working on My Portfolio
+🌱 I’m currently learning PyTorch, Django
+📝 I regularly write articles on adituuu.pl/blog
+📫 You can reach me on Twitter
+-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-=x=-
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adituuu&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
