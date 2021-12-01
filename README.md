@@ -1,6 +1,8 @@
 # Hi There 👋, I'm Adam
  ### Junior Python & FrontEnd Developer.
+ 
 </br>
+
 #### About Me:
 
 - 🔭 I’m currently working on <>
